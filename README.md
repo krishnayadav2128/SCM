@@ -1,5 +1,33 @@
 <h1>Welcome to Tourify - Your Passport to Adventure!</h1>
 
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=dakshsinghrathore%2FISRO-web%20&countColor=%23263759&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/krishnayadav2128/Tourify)
+![GitHub Repo stars](https://img.shields.io/github/stars/krishnayadav2128/Tourify)
+![GitHub contributors](https://img.shields.io/github/contributors/krishnayadav2128/Tourify)
+![GitHub last commit](https://img.shields.io/github/last-commit/krishnayadav2128/Tourify)
+![GitHub repo size](https://img.shields.io/github/repo-size/krishnayadav2128/Tourify)
+![Github](https://img.shields.io/github/license/dakshsinghrathore/ISRO-web)
+![GitHub issues](https://img.shields.io/github/issues/krishnayadav2128/Tourifyb)
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/krishnayadav2128/Tourify)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/krishnayadav2128/Tourify)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishnayadav2128/Tourify)
+
+<p> <a name="introduction"></a> 
+  
+## 📋 <a name="table">Table of Contents</a>
+
+1. 🤖 [Introduction](#introduction)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🚀 [Quick start](#quick-start)
+4. 📛 [Badges](#badges)
+5. 🤝 [Our Contributors](#contributors)
+6. 🔑 [OWNERS](#owners)
+7. 🎉 [Special Announcement](#announcement)
+8. ©️   [License](#License)
+
+
+
 ### Discover, Plan, and Share Your Travel Adventures
 
 Tourify is not just another tourist website; it's your ultimate travel companion, meticulously crafted to elevate your journey from ordinary to extraordinary. With a sleek and intuitive interface, Tourify makes exploring the world effortless and exhilarating.
