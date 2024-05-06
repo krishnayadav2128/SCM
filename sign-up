@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="sign-up.css">
+    <title>Sign Up</title>
+</head>
+<body>
+    <div class="India">  <font align="center"> <h1>Welcome to India</h1>
+        <p>Explore the rich culture, breathtaking landscapes, and vibrant traditions of India.</p></font> </div> 
+    <section id="signup">
+        <div class="container">
+            <h2>Sign Up</h2>
+            <form id="signup-form" action="/signup" method="post">
+                <div class="form-group">
+                    <input type="text" id="new-username" name="new-username" placeholder="New Username" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="new-password" name="new-password" placeholder="New Password" required>
+                </div>
+                <div class="form-group">
+                    <input type="password" id="confirm-password" name="confirm-password" placeholder="Confirm Password" required>
+                </div>
+                <div class="form-group">
+                    <button type="submit">Sign Up</button>
+                </div>
+            </form>
+            <p>Already have an account? <a href="/login">Login</a></p>
+        </div>
+    </section>
+</body>
+</html>
