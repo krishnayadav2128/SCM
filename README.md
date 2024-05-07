@@ -87,25 +87,6 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 ##  <a name="Preview">👁️‍🗨️ Preview</a>
 # <a href="" target="_blank">VERSION 1</a>
 ![Version 1](https://github.com/krishnayadav2128/Tourify/blob/main/v1.png)
-<div align="left">
-  
-</div>
-
-<div align="left">
-  <h1><a href="" target="_blank">VERSION 2</a></h1>
-</div>
-
-
-<div align="leftt">
-
-</div>
-
-<div align="left">
-  <h1><a href="" target="_blank">VERSION 3</a></h1>
-</div>
-
-<div align="leftt">
-</div>
 
 ##  <a name="Versions">📝 Versions</a> 
 # <a href="" target="_blank">VERSION 1</a>
