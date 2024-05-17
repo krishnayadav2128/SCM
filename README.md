@@ -103,8 +103,8 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 | Feature   | Allocation | Deadline     |
 |-----------|------------|--------------|
 | Destinations    | Krishna      | 30-04-2024   |
-| Subscribe | Kunal     | 30-04-2024   |
-| Social    | Krrish     | 30-04-2024   |
+| Login | Kunal     | 30-04-2024   |
+| Sign-up    | Krrish     | 30-04-2024   |
 
 </div>
 
