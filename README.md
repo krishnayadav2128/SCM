@@ -90,7 +90,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 ##  <a name="Preview">👁️‍🗨️ Preview</a>
 # <a href="" target="_blank">VERSION 2</a>
-
+![VERSION 2)](https://github.com/krishnayadav2128/Tourify/assets/156660436/31614d52-375e-44e8-8c25-35cd63a65eac)
 ##  <a name="Preview">👁️‍🗨️ Preview</a>
 # <a href="" target="_blank">VERSION 3</a>
 
