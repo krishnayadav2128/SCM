@@ -80,7 +80,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG15cWdyMGUwMjI1enV6amdxZmYwbmhsIiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="80px" height="80px"/>
 <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19" width="80px" height="80px"/>
 <img src="https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/206/ht-badge.png" width="75px" height="75px"/>
-
+                                            
 <br/>
 </p>
 
