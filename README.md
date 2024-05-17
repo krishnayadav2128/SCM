@@ -93,7 +93,7 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 ![VERSION 2)](https://github.com/krishnayadav2128/Tourify/assets/156660436/31614d52-375e-44e8-8c25-35cd63a65eac)
 ##  <a name="Preview">👁️‍🗨️ Preview</a>
 # <a href="" target="_blank">VERSION 3</a>
-
+![VERSION 3)](https://github.com/krishnayadav2128/Tourify/assets/156660436/8c22377b-1bc1-46fa-8de6-98097ebed1ca)
 
 ##  <a name="Versions">📝 Versions</a> 
 # <a href="" target="_blank">VERSION 1</a>
