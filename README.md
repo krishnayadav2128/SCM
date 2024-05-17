@@ -132,9 +132,9 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 
 | Feature   | Allocation | Deadline     |
 |-----------|------------|--------------|
-| Final README.md      | Krishna      | 08-05-2024   |
-| Final Features | Krishna     | 08-05-2024   |
-| Destination Description   | Kunal + Krrish     | 08-05-2024   |
+| Final README.md      | Krishna      | 15-05-2024   |
+| Final Features | Krrish     | 15-05-2024   |
+| Destination Description   | Kunal     | 15-05-2024   |
 
 </div>
 
