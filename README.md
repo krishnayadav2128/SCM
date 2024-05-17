@@ -8,7 +8,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/krishnayadav2128/Tourify)
 ![GitHub repo size](https://img.shields.io/github/repo-size/krishnayadav2128/Tourify)
 ![Github](https://img.shields.io/github/license/dakshsinghrathore/ISRO-web)
-![GitHub issues](https://img.shields.io/github/issues/krishnayadav2128/Tourifyb)
+![GitHub issues](https://img.shields.io/github/issues/krishnayadav2128/Tourify)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/krishnayadav2128/Tourify)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/krishnayadav2128/Tourify)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/krishnayadav2128/Tourify)
