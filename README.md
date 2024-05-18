@@ -88,12 +88,11 @@ Contributions are welcome! If you have any ideas, suggestions, or bug fixes, ple
 # <a href="" target="_blank">VERSION 1</a>
 ![Version 1](https://github.com/krishnayadav2128/Tourify/blob/main/v1.png)
 
-##  <a name="Preview">👁️‍🗨️ Preview</a>
 # <a href="" target="_blank">VERSION 2</a>
-![VERSION 2)](https://github.com/krishnayadav2128/Tourify/assets/156660436/31614d52-375e-44e8-8c25-35cd63a65eac)
-##  <a name="Preview">👁️‍🗨️ Preview</a>
+![VERSION 2)](https://github.com/krishnayadav2128/Tourify/blob/main/v2.png)
+
 # <a href="" target="_blank">VERSION 3</a>
-![VERSION 3)](https://github.com/krishnayadav2128/Tourify/assets/156660436/8c22377b-1bc1-46fa-8de6-98097ebed1ca)
+![VERSION 3)](https://github.com/krishnayadav2128/Tourify/blob/main/v3.png)
 
 ##  <a name="Versions">📝 Versions</a> 
 # <a href="" target="_blank">VERSION 1</a>
